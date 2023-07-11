@@ -25,6 +25,12 @@ Pip 23.1.2
   3.- pip install_selenium
   4.- pip install webdriver manager
   
+# CICLO DE AUTOMATIZACION (VIDEO)
+
+https://drive.google.com/file/d/16K8cpRjF1GDg6mSvtqy-touaURxEjgSt/view?usp=drive_link
+
+
+ 
   
 
 
